@@ -1,0 +1,12 @@
+{
+	"name": "todo.desk",
+	"description": "Desktop version of todo.txt",
+	"author": "Adam Becker <ajbecker@gmail.com>",
+	"dependencies": {
+		"karma": "~0.10",
+		"karma-qunit": "~0.1.1",
+		"karma-requirejs": "~0.1.0",
+		"qunit": "0.5.16",
+		"requirejs": "2.1.8"
+	}
+}

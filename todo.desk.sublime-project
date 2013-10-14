@@ -1,0 +1,33 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"c:\\Python27\\python.exe",
+				"-u",
+				"$project_path\\build.py"
+			],
+			"name": "Build Task Output",
+			"working_dir": "$project_path"
+		}
+	],
+	"folders":
+	[
+		{
+			"folder_exclude_pattern":
+			[
+				"output",
+				"node_modules"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true,
+		"detect_indentation": false,
+		"use_tab_stops": true
+	}
+}
